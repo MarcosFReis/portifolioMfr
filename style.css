@@ -456,6 +456,7 @@
     form .btn-enviar{
         margin-top: 30px;
         text-align: center;
+        padding-left: 25px;
     }
     form .btn-enviar input{
         width: 130px;
